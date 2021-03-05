@@ -125,3 +125,4 @@ page-mathjax: false
 
 # Native Debugging for Homepage Display
 plugins: [jekyll-paginate]
+theme: jekyll-theme-cayman
